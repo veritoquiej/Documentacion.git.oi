@@ -1,0 +1,47 @@
+{
+    "name": "App\\Http\\Controllers\\JsController",
+    "line": 9,
+    "short_desc": "",
+    "long_desc": "",
+    "hint": null,
+    "tags": [],
+    "namespace": "App\\Http\\Controllers",
+    "file": "C:\\Users\\Estela\\Documents\\laravel\\stisla-laravel\/app\\Http\\Controllers\\JsController.php",
+    "relative_file": null,
+    "hash": "2b755ff9f2d2d28c1136b94bc2661f4f4cf80a1c",
+    "parent": "App\\Http\\Controllers\\Controller",
+    "modifiers": 0,
+    "is_trait": false,
+    "is_interface": false,
+    "aliases": {
+        "Request": "Illuminate\\Http\\Request",
+        "View": "View",
+        "Response": "Response"
+    },
+    "errors": [],
+    "interfaces": [],
+    "traits": [],
+    "properties": [],
+    "methods": {
+        "dynamic": {
+            "name": "dynamic",
+            "line": 15,
+            "short_desc": "[dynamic nos devolve codigo de javascrip]",
+            "long_desc": "",
+            "hint": [
+                [
+                    "\\App\\Http\\Controllers\\[type]",
+                    false
+                ]
+            ],
+            "hint_desc": "[description]",
+            "tags": [],
+            "modifiers": 1,
+            "is_by_ref": "",
+            "exceptions": [],
+            "errors": [],
+            "parameters": []
+        }
+    },
+    "constants": []
+}
